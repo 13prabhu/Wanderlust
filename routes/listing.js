@@ -23,7 +23,6 @@ router
     wrapAsync(listingController.createListing)
   );
 
-
 //New Route
 router.get("/new", isLoggedin, listingController.renderNewForm);
 
