@@ -27,12 +27,19 @@ Live Location Map: An interactive map showing the hotel's location in real-time.
 https://wanderlust-j3ck.onrender.com/listings
 ## Technologies-used
 -HTML5
+
 -CSS3
+
 -javascript
+
 -express.js
+
 -node.js
+
 -mongodb
+
 -Bootstrap
+
 -EJS
 ## Usage
 
@@ -78,10 +85,16 @@ Manage Listings:
 Access your dashboard to view, edit, or remove your hotel listings as needed.
 ## contributing
 We welcome contributions to improve the Hotel Booking Platform! Whether you're interested in enhancing the codebase, suggesting new features, or helping with documentation, your input is valuable
+
 -Reporting Issues
+
 -Suggesting Features
+
 -Contributing Code
 ## Contacts
-email:prabhatpandit1651@gmail.com
-linkedin:Prabhat Sharma
+
+email:prabhatpandit1651@gmail.com.
+
+linkedin:Prabhat Sharma.
+
 Instagram:13_____prabhu
